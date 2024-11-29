@@ -1,4 +1,7 @@
 # Go By Example
 
 - [x] hello-world
-- [ ] values
+- [x]] values
+- [x] variables
+- [x] constants
+- [ ] for
