@@ -4,4 +4,5 @@
 - [x]] values
 - [x] variables
 - [x] constants
-- [ ] for
+- [x] for
+- [ ] if-else
