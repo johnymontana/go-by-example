@@ -6,3 +6,4 @@
 - [x] constants
 - [x] for
 - [ ] if-else
+- [ ] switch
