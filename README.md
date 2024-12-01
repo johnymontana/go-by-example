@@ -5,6 +5,7 @@
 - [x] variables
 - [x] constants
 - [x] for
-- [ ] if-else
-- [ ] switch
-- [ ] arrays
+- [x] if-else
+- [x] switch
+- [x] arrays
+- [x] slices
