@@ -7,3 +7,4 @@
 - [x] for
 - [ ] if-else
 - [ ] switch
+- [ ] arrays
